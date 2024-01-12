@@ -1,0 +1,6 @@
+bin/
+obj/
+.vs/
+Logs/
+/.config/dotnet-tools.json
+/CKYCP2/Properties/PublishProfiles
